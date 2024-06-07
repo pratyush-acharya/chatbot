@@ -1,0 +1,5 @@
+client/node_modules
+client/package-lock.json
+server/.env
+server/__pycache__
+client/.next
